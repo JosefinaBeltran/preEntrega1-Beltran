@@ -1,0 +1,10 @@
+.bienvenida {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+h1 {
+    color: #fdf9f2;
+}
